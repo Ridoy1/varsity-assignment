@@ -1,0 +1,7 @@
+Enter your Update mileage
+Make:Bmw - Model: x - Year: 2025 - Mileage: 1500
+
+Update mileage
+
+Make:Bmw - Model: x - Year: 2025 - Mileage: 2000
+This is a luxury car.
