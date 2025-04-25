@@ -1,0 +1,7 @@
+The book is already checked out.
+The book is Not return.
+
+--- Book Details ---
+Book ID: rk24101
+Title: Ridoy
+Author: ka fd
